@@ -1,0 +1,17 @@
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-astradb>=0.3.0
+langchain-groq>=0.1.0
+langchain-huggingface>=0.1.0
+pandas>=2.0.0
+pypdf>=4.0.0
+
+# langchain-astradb
+# langchain
+# langchain-community 
+# langchain-groq
+datasets
+# pypdf
+python-dotenv
+pandas
+flask
